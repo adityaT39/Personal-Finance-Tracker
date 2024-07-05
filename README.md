@@ -22,22 +22,22 @@ Personal Finance Tracker is a web application designed to help users manage thei
 •	Category-wise expense breakdown.
 •	Progress bars for savings goals.
 
-##Technologies Used
+## Technologies Used
 
-###Frontend
+### Frontend
 •	HTML, CSS, JavaScript: Basic building blocks for creating the web interface.
 •	React: For building a dynamic and responsive user interface.
 •	Chart.js or D3.js: For creating interactive and informative visualizations.
 
-###Backend
+### Backend
 •	Node.js with Express: For handling server-side logic and API requests.
 •	PostgreSQL: Relational database for storing structured financial data.
 •	JWT (JSON Web Tokens): For secure user authentication and session management.
 
-###APIs
+### APIs
 •	ExchangeRate API: Integration to get real-time currency exchange rates.
 •	RESTful API: CRUD operations for managing user profiles, financial records (income, expenses), and goals.
 
-###Deployment
+### Deployment
 •	Docker: Containerization for consistent deployment across different environments.
 •	Heroku or AWS: Hosting the application with scalability options.
